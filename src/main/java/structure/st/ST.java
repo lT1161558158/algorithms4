@@ -1,4 +1,6 @@
-package structure;
+package structure.st;
+
+import java.util.Iterator;
 
 /**
  * 每个键只对应着一个值（表中不允许存在重复的值）
@@ -31,5 +33,5 @@ public interface ST<K,V> {
 
     int size();
 
-    Iterable<K> keys();
+    Iterator<K> keys();
 }
