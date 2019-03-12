@@ -1,4 +1,4 @@
-package structure;
+package structure.st;
 
 import lombok.Data;
 

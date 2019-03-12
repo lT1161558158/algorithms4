@@ -1,6 +1,6 @@
 package structure.st.impl;
 
-import structure.STNode;
+import structure.st.STNode;
 import structure.st.SortST;
 
 import java.util.Iterator;

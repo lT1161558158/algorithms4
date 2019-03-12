@@ -1,7 +1,7 @@
 package structure.st.impl;
 
 import structure.st.ST;
-import structure.STNode;
+import structure.st.STNode;
 
 import java.util.Iterator;
 
